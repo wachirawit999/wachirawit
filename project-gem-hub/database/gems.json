@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "sequence": 1,
+    "title": "ข้อเสนอโครงงานต้องรอด",
+    "description": "วิเคราะห์ไอเดียและพัฒนาเป็นข้อเสนอโครงงานอย่างเป็นระบบ",
+    "url": "https://gemini.google.com/gem/1beBGsVFlTY0AoLO0ASzgi24vLOdiVxSy?usp=sharing",
+    "active": 1
+  },
+  {
+    "id": 2,
+    "sequence": 2,
+    "title": "บทที่ 1 ต้องรอด",
+    "description": "พัฒนาบทนำ ที่มาและความสำคัญ คำถามวิจัย และวัตถุประสงค์",
+    "url": "https://gemini.google.com/gem/1o5HHtlekvrDPqP99MuLoEHi-SSLgitf6?usp=sharing",
+    "active": 1
+  },
+  {
+    "id": 3,
+    "sequence": 3,
+    "title": "บทที่ 2 ต้องรอด",
+    "description": "ค้นคว้าแนวคิด ทฤษฎี และงานวิจัย พร้อมการอ้างอิงทางวิชาการ",
+    "url": "https://gemini.google.com/gem/1Xb5Ci_CWPnyLInVMUXWW2HpE2UZRi8B5?usp=sharing",
+    "active": 1
+  },
+  {
+    "id": 4,
+    "sequence": 4,
+    "title": "บทที่ 3 ต้องรอด",
+    "description": "ออกแบบวิธีวิจัย การทดลอง เครื่องมือ และการเก็บข้อมูล",
+    "url": "https://gemini.google.com/gem/1rWRIhErjUJjm3jzHshFZDxYDIRSxfYXp?usp=sharing",
+    "active": 1
+  },
+  {
+    "id": 5,
+    "sequence": 5,
+    "title": "บทที่ 4 ต้องรอด",
+    "description": "วิเคราะห์ผลการทดลอง นำเสนอตาราง กราฟ และตีความข้อมูล",
+    "url": "https://gemini.google.com/gem/1KHbKnp1WcaLfa9VVlZDy42WlVLvWU-Eh?usp=sharing",
+    "active": 1
+  },
+  {
+    "id": 6,
+    "sequence": 6,
+    "title": "บทที่ 5 ต้องรอด",
+    "description": "สรุปผล อภิปรายผล และเสนอแนะแนวทางการพัฒนา",
+    "url": "https://gemini.google.com/gem/1I22AY6w0KrXJIkM3MpYeJi2HvfWwwOWL?usp=sharing",
+    "active": 1
+  },
+  {
+    "id": 7,
+    "sequence": 7,
+    "title": "นวัตกรรมสร้างได้",
+    "description": "เปลี่ยนข้อเสนอสู่นวัตกรรม พร้อมขั้นตอน เครื่องมือ และโค้ด",
+    "url": "https://gemini.google.com/gem/1-YGZRLdpzEA1pBNDfkPkckXVlEimnChB?usp=sharing",
+    "active": 1
+  }
+]

@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+[build.environment]
+  NODE_VERSION = "22"
+  NEXT_TELEMETRY_DISABLED = "1"
+# Netlify automatically uses its OpenNext adapter for this Next.js project.
+# Set DATABASE_URL and APP_ORIGIN using Netlify environment settings.
+# Do not use a static export or Netlify Drop: the application requires server routes.
